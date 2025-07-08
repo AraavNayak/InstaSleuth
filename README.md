@@ -1,4 +1,4 @@
-# InstaMutual
+# InstaSleuth
 
 Ever wanted to unfollow your unfollowers?
 
