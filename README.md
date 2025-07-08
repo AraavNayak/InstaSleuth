@@ -3,16 +3,8 @@
 Ever wanted to unfollow your unfollowers?
 
 Look no further. This program gives you a list of accounts you don't follow back and accounts who don't follow you back on Instagram. This project utilizes Instagram API to fetch followers/followings, and utilizes IO to compare the contents of two lists (one of followers, the other of followings) and output the result.
-<hr>
-<code>ListComparer.java</code> <i> outputs an ArrayList of elements from a list not present in another list; this can be used to tell you people who have unfollowed you or people you have unfollowed from a certain time. </i>
-<br>
-<code>obtainLists.js</code> <i> details the Instagram API code necessary to obtain the list of followers/following of a user from the javascript console on instagram.com. This can be used to obtain the lists of followers, followings, as well as lists of people who you don't follow back and people who don't follow you back. </i>
-<br>
-<code>trueCount.js</code> <i> details the code (to be pasted in Instagram.com console) to obtain the actual count of followers of the specified user. Instagram sometimes doesn't show an accurate follower count, so this can be used to give you that accurate reading of how many followers the specified user actually has </i>
-<br>
-<code>autoUnfollowUnfollower.js</code>
-<br>
-<code>doesXFollowMeBack.js</code>
+
+
 
 <hr>
 <h3>Instructions</h3>
