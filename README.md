@@ -1,4 +1,4 @@
-# InstagramUnfollowerReport
+# InstaMutual
 
 Ever wanted to unfollow your unfollowers?
 
