@@ -2,7 +2,7 @@
 
 Ever wanted to unfollow your unfollowers?
 
-This program can be used to give you a list of unfollowers (people who have unfollowed you) since a certain date. This program is also capable of telling you people who you don't follow back and people who don't follow you back on Instagram. This program utilizes IO to compare the contents of two txt files (one representing your followers from the past, the other containing your current followers) and report the list of people who were present in the old list but not present in the new list (AKA ppl who have unfollowed you).
+Look no further. This program gives you a list of accounts you don't follow back and accounts who don't follow you back on Instagram. This project utilizes Instagram API to fetch followers/followings, and utilizes IO to compare the contents of two lists (one of followers, the other of followings) and output the result.
 <hr>
 <code>ListComparer.java</code> <i> outputs an ArrayList of elements from a list not present in another list; this can be used to tell you people who have unfollowed you or people you have unfollowed from a certain time. </i>
 <br>
